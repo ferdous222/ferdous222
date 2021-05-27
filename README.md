@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ferdous222
 - 👀 I’m interested in programming and machine learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Linux
 - 💞️ I’m looking to collaborate on projects that will move me forward
 - 📫 You can reach me via mail radek.ferda@gmail.com
 
